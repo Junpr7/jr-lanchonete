@@ -1,0 +1,21 @@
+.aside{
+        width: 220px;
+        background: #333;
+        color: white;
+        padding: 10px;
+        min-height: 100vh;
+}
+
+.listaMain{
+list-style: none;
+margin-top: 20px;
+}
+
+.listaMain a {
+  color: white;
+  text-decoration: none;
+}
+
+.listaMain li {
+  margin-bottom: 12px;
+}
